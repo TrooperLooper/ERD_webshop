@@ -1,6 +1,6 @@
 # 🛒 ERD Webshop Backend
 
-This project is a backend API for a simple e-commerce webshop, built as a school assignment to practice translating ERD diagrams into normalized relational databases and provide CRUD API endpoints. The stack includes **Node.js**, **Express**, **PostgreSQL**, and **Prisma ORM**.
+This project is a backend API for a simple e-commerce webshop, built as a school assignment to practice translating ERD diagrams into normalized relational databases and provide CRUD API endpoints. 
 
 ---
 
@@ -26,7 +26,7 @@ This project is a backend API for a simple e-commerce webshop, built as a school
 - Express
 - PostgreSQL
 - Prisma ORM
-- (TypeScript, if used)
+- TypeScript
 
 ---
 
