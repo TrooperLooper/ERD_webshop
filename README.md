@@ -27,7 +27,6 @@ This project is a backend API for a simple e-commerce webshop, built as a school
 - PostgreSQL
 - Prisma ORM
 - (TypeScript, if used)
-- (Docker, if Docker configs/scripts included)
 
 ---
 
@@ -71,13 +70,3 @@ This project is a backend API for a simple e-commerce webshop, built as a school
 - Gained hands-on experience with modern tools like Prisma ORM and database migration/seed workflows.
 
 ---
-
-## Note
-
-> **Authentication and validation are _not_ included**—this project focuses on database design and core CRUD operations as per assignment scope. See code comments for potential extension ideas!
-
----
-
-## License
-
-MIT
